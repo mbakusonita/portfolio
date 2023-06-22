@@ -23,7 +23,6 @@
   background-image: url(/images/header-shapes\ mobile@2x.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-
 }
 
 .greetings {
@@ -36,20 +35,15 @@
   margin-top: 80px;
 }
 
-.abilities{
+.abilities {
   color: black;
   font-family: 'Inter', sans-serif;
   line-height: 30px;
   font-size: 20px;
   font-weight: 400px;
-  
 }
 
 .contact {
-    margin-top: 20px;
-  color: #172b4d;
-}
-.contact{
-    margin: 5px;
-    padding: 0px;
+  margin: 5px;
+  padding: 0;
 }
