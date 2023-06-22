@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 3px;
+}
+
+.media {
+  height: 40px;
+}
+
+.logo {
+  color: blue;
+  font-weight: bold;
+  font-size: large;
+}
+
+.menu-button {
+  position: absolute;
+  top: 20px;
+  right: 55px;
+}
+
+.home {
+  background-image: url(/images/header-shapes\ mobile@2x.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+.greetings {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-size: 32px;
+  line-height: 52px;
+  font-weight: 700px;
+  color: black;
+  margin-top: 80px;
+}
+
+.abilities{
+  color: black;
+  font-family: 'Inter', sans-serif;
+  line-height: 30px;
+  font-size: 20px;
+  font-weight: 400px;
+  
+}
+
+.contact {
+    margin-top: 20px;
+  color: #172b4d;
+}
+.contact{
+    margin: 5px;
+    padding: 0px;
+}
